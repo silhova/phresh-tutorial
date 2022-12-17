@@ -6,6 +6,7 @@ Each part of the application is built and tested in small, manageable chunks - a
 
 The technology stack used to create the backend of this application is as follows:
 
+
 - Framework
     - FastAPI and Starlette
 - ASGI Server
